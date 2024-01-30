@@ -1,1 +1,3 @@
 a) The product owner is equivalent to the on-site customer or product director. The purpose of the product owner is to oversee and prioritize the development teams tasks, so they are as efficient as possible by overseeing the backlog, assigning tasks and ensuring wok is satisfactory.
+
+b) The Scrum Master is the role that ensures the team is following the agile values and principles, ad the processes and practices agreed upon. They are responsible for ensuring good relationship between product owner and the rest of the team, ensures the team is effective, and deals with obstacles and protects from interruptions.
